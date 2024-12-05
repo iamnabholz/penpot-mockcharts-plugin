@@ -1,6 +1,10 @@
 {
-  "name": "Penpot starter plugin",
+  "name": "Mockcharts",
   "code": "plugin.js",
-  "description": "This is a starter plugin for Penpot",
-  "permissions": ["content:read", "content:write"]
+  "icon": "content/icon.png",
+  "description": "Create mockup charts and graphs",
+  "permissions": [
+    "content:read",
+    "content:write"
+  ]
 }
